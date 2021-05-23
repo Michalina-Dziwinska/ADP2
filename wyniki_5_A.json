@@ -1,0 +1,293 @@
+[{
+  "_id": "BGN",
+  "totalCredits": 21200.88,
+  "avgCredits": 5300.22
+},{
+  "_id": "NZD",
+  "totalCredits": 5328.46,
+  "avgCredits": 5328.46
+},{
+  "_id": "PHP",
+  "totalCredits": 118606.28,
+  "avgCredits": 4941.928333333333
+},{
+  "_id": "PLN",
+  "totalCredits": 95887.84,
+  "avgCredits": 5046.728421052631
+},{
+  "_id": "AFN",
+  "totalCredits": 16755.49,
+  "avgCredits": 5585.163333333334
+},{
+  "_id": "ARS",
+  "totalCredits": 23242,
+  "avgCredits": 4648.4
+},{
+  "_id": "NPR",
+  "totalCredits": 5792.26,
+  "avgCredits": 5792.26
+},{
+  "_id": "UZS",
+  "totalCredits": 3573.03,
+  "avgCredits": 3573.03
+},{
+  "_id": "HNL",
+  "totalCredits": 16514.59,
+  "avgCredits": 5504.863333333334
+},{
+  "_id": "KRW",
+  "totalCredits": 13379.82,
+  "avgCredits": 6689.91
+},{
+  "_id": "XOF",
+  "totalCredits": 17882.05,
+  "avgCredits": 5960.683333333333
+},{
+  "_id": "IDR",
+  "totalCredits": 323922.59,
+  "avgCredits": 4907.918030303031
+},{
+  "_id": "VUV",
+  "totalCredits": 6418.27,
+  "avgCredits": 6418.27
+},{
+  "_id": "CNY",
+  "totalCredits": 470700.38,
+  "avgCredits": 4954.740842105263
+},{
+  "_id": "VND",
+  "totalCredits": 36160.26,
+  "avgCredits": 4520.0325
+},{
+  "_id": "KYD",
+  "totalCredits": 3760.89,
+  "avgCredits": 3760.89
+},{
+  "_id": "CUP",
+  "totalCredits": 15017.34,
+  "avgCredits": 5005.78
+},{
+  "_id": "BRL",
+  "totalCredits": 49632.020000000004,
+  "avgCredits": 4512.001818181819
+},{
+  "_id": "IRR",
+  "totalCredits": 26504.239999999998,
+  "avgCredits": 4417.373333333333
+},{
+  "_id": "CZK",
+  "totalCredits": 37156.42,
+  "avgCredits": 4644.5525
+},{
+  "_id": "KZT",
+  "totalCredits": 3788.95,
+  "avgCredits": 3788.95
+},{
+  "_id": "MKD",
+  "totalCredits": 3835.05,
+  "avgCredits": 3835.05
+},{
+  "_id": "PYG",
+  "totalCredits": 4874.69,
+  "avgCredits": 4874.69
+},{
+  "_id": "EUR",
+  "totalCredits": 245091.47,
+  "avgCredits": 4901.8294
+},{
+  "_id": "RUB",
+  "totalCredits": 119749.15,
+  "avgCredits": 4989.547916666666
+},{
+  "_id": "SEK",
+  "totalCredits": 70840.19,
+  "avgCredits": 5060.013571428572
+},{
+  "_id": "XAF",
+  "totalCredits": 14094.66,
+  "avgCredits": 4698.22
+},{
+  "_id": "BOB",
+  "totalCredits": 5263.3,
+  "avgCredits": 5263.3
+},{
+  "_id": "YER",
+  "totalCredits": 13712.5,
+  "avgCredits": 4570.833333333333
+},{
+  "_id": "EGP",
+  "totalCredits": 5579.3,
+  "avgCredits": 5579.3
+},{
+  "_id": "ILS",
+  "totalCredits": 16295.49,
+  "avgCredits": 5431.83
+},{
+  "_id": "CDF",
+  "totalCredits": 12228.8,
+  "avgCredits": 6114.4
+},{
+  "_id": "ETB",
+  "totalCredits": 5436.11,
+  "avgCredits": 5436.11
+},{
+  "_id": "GBP",
+  "totalCredits": 6149.19,
+  "avgCredits": 6149.19
+},{
+  "_id": "NGN",
+  "totalCredits": 24946.23,
+  "avgCredits": 4157.705
+},{
+  "_id": "CLP",
+  "totalCredits": 21008.95,
+  "avgCredits": 5252.2375
+},{
+  "_id": "MMK",
+  "totalCredits": 4629.42,
+  "avgCredits": 4629.42
+},{
+  "_id": "ALL",
+  "totalCredits": 3325.48,
+  "avgCredits": 3325.48
+},{
+  "_id": "HRK",
+  "totalCredits": 24354.82,
+  "avgCredits": 4870.964
+},{
+  "_id": "MYR",
+  "totalCredits": 4781.12,
+  "avgCredits": 4781.12
+},{
+  "_id": "MXN",
+  "totalCredits": 50229,
+  "avgCredits": 5022.9
+},{
+  "_id": "JPY",
+  "totalCredits": 60944.74,
+  "avgCredits": 5078.7283333333335
+},{
+  "_id": "ZAR",
+  "totalCredits": 11790.92,
+  "avgCredits": 3930.306666666667
+},{
+  "_id": "THB",
+  "totalCredits": 23021.96,
+  "avgCredits": 4604.392
+},{
+  "_id": "BWP",
+  "totalCredits": 4076.29,
+  "avgCredits": 4076.29
+},{
+  "_id": "NIO",
+  "totalCredits": 9971.28,
+  "avgCredits": 4985.64
+},{
+  "_id": "XPF",
+  "totalCredits": 4759.07,
+  "avgCredits": 4759.07
+},{
+  "_id": "CAD",
+  "totalCredits": 58375.6,
+  "avgCredits": 5306.872727272727
+},{
+  "_id": "MGA",
+  "totalCredits": 14560.99,
+  "avgCredits": 4853.663333333333
+},{
+  "_id": "ZMW",
+  "totalCredits": 5569.56,
+  "avgCredits": 5569.56
+},{
+  "_id": "MWK",
+  "totalCredits": 3574.42,
+  "avgCredits": 3574.42
+},{
+  "_id": "PKR",
+  "totalCredits": 18938,
+  "avgCredits": 4734.5
+},{
+  "_id": "PEN",
+  "totalCredits": 18644.94,
+  "avgCredits": 4661.235
+},{
+  "_id": "VEF",
+  "totalCredits": 8333.28,
+  "avgCredits": 4166.64
+},{
+  "_id": "RSD",
+  "totalCredits": 4276.56,
+  "avgCredits": 4276.56
+},{
+  "_id": "MAD",
+  "totalCredits": 3818.85,
+  "avgCredits": 3818.85
+},{
+  "_id": "ISK",
+  "totalCredits": 4316.41,
+  "avgCredits": 4316.41
+},{
+  "_id": "ZWL",
+  "totalCredits": 5792.17,
+  "avgCredits": 5792.17
+},{
+  "_id": "UAH",
+  "totalCredits": 40471.840000000004,
+  "avgCredits": 5058.9800000000005
+},{
+  "_id": "DOP",
+  "totalCredits": 20674.739999999998,
+  "avgCredits": 5168.6849999999995
+},{
+  "_id": "MNT",
+  "totalCredits": 21715.61,
+  "avgCredits": 5428.9025
+},{
+  "_id": "SRD",
+  "totalCredits": 5286.68,
+  "avgCredits": 5286.68
+},{
+  "_id": "IQD",
+  "totalCredits": 4269.39,
+  "avgCredits": 4269.39
+},{
+  "_id": "RWF",
+  "totalCredits": 4632.88,
+  "avgCredits": 4632.88
+},{
+  "_id": "COP",
+  "totalCredits": 19746.73,
+  "avgCredits": 4936.6825
+},{
+  "_id": "BYR",
+  "totalCredits": 5095.79,
+  "avgCredits": 5095.79
+},{
+  "_id": "TJS",
+  "totalCredits": 4087.71,
+  "avgCredits": 4087.71
+},{
+  "_id": "AMD",
+  "totalCredits": 24609.33,
+  "avgCredits": 4921.866
+},{
+  "_id": "USD",
+  "totalCredits": 74680.98,
+  "avgCredits": 4978.732
+},{
+  "_id": "TZS",
+  "totalCredits": 7052.370000000001,
+  "avgCredits": 3526.1850000000004
+},{
+  "_id": "GTQ",
+  "totalCredits": 5806.3,
+  "avgCredits": 5806.3
+},{
+  "_id": "NOK",
+  "totalCredits": 4773.66,
+  "avgCredits": 4773.66
+},{
+  "_id": "LYD",
+  "totalCredits": 8764.99,
+  "avgCredits": 4382.495
+}]
