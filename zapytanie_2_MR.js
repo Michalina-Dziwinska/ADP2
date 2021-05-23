@@ -8,6 +8,6 @@ var redFcn2 = function(curreny, balance) {
 	return balance;}
 db.people.mapReduce(
 	mapFcn2,redFcn2,
-	{out: "map2",})
+	{out: "map_2",})
 
-printjson(db.map2.find().toArray())
+printjson(db.map_2.find().toArray())
